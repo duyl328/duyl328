@@ -1,15 +1,9 @@
 name: generate readme animation
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
 
 
 jobs:
