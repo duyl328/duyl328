@@ -15,5 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=duyl328&show_icons=true&theme=tokyonight" height=180/>
 </div>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 [//]: # (![]&#40;./profile-3d-contrib/profile-gitblock.svg&#41;)
 
